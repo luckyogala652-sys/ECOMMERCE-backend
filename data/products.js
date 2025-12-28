@@ -35,3 +35,5 @@ const products = [
     category: 'Snacks'
   }
 ];
+
+module.exports = products;
