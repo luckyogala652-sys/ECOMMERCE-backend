@@ -3,6 +3,7 @@ const cors = require('cors');
 const products = require('./data/products');
 const app = express();
 const PORT = 5000;
+const path = require('path');
 
 app.use(cors({
   origin: ['http://localhost:3000','http://localhost:3001'],
@@ -10,7 +11,7 @@ app.use(cors({
 }));
 app.use(express.json());
 
-app.use('/images', express.static('public/images'));
+app.use('/images', express.static(path.join(__dirname, 'public/images')));
 
 app.get('/api/products', (req, res)=> {
   res.json(products);
