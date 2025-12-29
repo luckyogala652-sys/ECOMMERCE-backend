@@ -6,7 +6,7 @@ const PORT = 5000;
 const path = require('path');
 
 app.use(cors({
-  origin: 'https://johnwillsmart.netlify.app/'
+  origin: 'https://johnwillsmart.netlify.app'
 }));
 app.use(express.json());
 
