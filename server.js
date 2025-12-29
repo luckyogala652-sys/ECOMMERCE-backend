@@ -6,7 +6,7 @@ const PORT = 5000;
 const path = require('path');
 
 app.use(cors({
-  origin: ['http://localhost:3000','http://localhost:3001'],
+  origin: ['http://localhost:3000','http://localhost:3001', 'https://localhost:3002'],
   methods: ['GET','POST'],
 }));
 app.use(express.json());
