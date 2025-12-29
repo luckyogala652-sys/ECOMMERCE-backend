@@ -13,7 +13,7 @@ app.use(cors({
 }));
 app.use(express.json());
 
-app.use('/images', express.static(path.join(__dirname, 'public/images'),{
+app.use('/images', express.static(path.join(process.cwd(), 'public/images'),{
   setHeaders: (res, path)=> {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
