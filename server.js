@@ -5,7 +5,9 @@ const app = express();
 const PORT = 5000;
 const path = require('path');
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://johnwillsmart.netlify.app/'
+}));
 app.use(express.json());
 
 app.use('/images', express.static(path.join(__dirname, 'public/images')));
