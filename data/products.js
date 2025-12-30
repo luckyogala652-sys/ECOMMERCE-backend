@@ -4,48 +4,48 @@ const products = [
     name: 'Milo',
     price: 5.99,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/milo.jpg',
-    category: 'Beverages'
-    subcategory: 'Cocoa and Chocolate Powder'
+    category: 'beverages',
+    subcategory: 'cocoa and chocolate powder'
   },
   {
     id: 2,
     name: 'Nivea',
     price: 7.23,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/nivea.jpg',
-    category: 'Cream'
-    subcategory: 'Body-Cream'
+    category: 'cream',
+    subcategory: 'body-cream'
   },
   {
     id: 3,
     name: 'Ice Cream',
     price: 2.81,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/iceceam.jpg',
-    category: 'Desserts'
-    subcategory: 'Frozen Desserts'
+    category: 'desserts',
+    subcategory: 'frozen desserts'
   },
   {
     id: 4,
     name: 'Eva Soap',
     price: 1.99,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/evasoap.jpg',
-    category: 'Toiletries'
-    subcategory: 'Bathing Soaps'
+    category: 'toiletries',
+    subcategory: 'bathing soaps'
   },
   {
     id: 5,
     name: 'Cabin Biscuit',
     price: 3.50,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/cabinbiscuit.jpg',
-    category: 'Snacks'
-    subcategory: 'Biscuits'
+    category: 'snacks',
+    subcategory: 'biscuits'
   },
   {
     id: 6,
     name: 'Colgate Toothpaste',
     price: 4.25,
     image: '/images/colgatetootpaste.jpg',
-    category: 'Toothpaste'
-    subcategory: 'Oral Care'
+    category: 'toiletries',
+    subcategory: 'toothpaste'
   }
 ];
 
