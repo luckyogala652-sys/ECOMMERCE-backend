@@ -25,7 +25,7 @@ const products = [
     name: 'Eva Soap',
     price: 1.99,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/evasoap.jpg',
-    category: 'Toiletries'
+    category: 'Bathing Soaps'
   },
   {
     id: 5,
@@ -33,6 +33,13 @@ const products = [
     price: 3.50,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/cabinbiscuit.jpg',
     category: 'Snacks'
+  }
+  {
+    id: 6,
+    name: 'Colgate Toothpaste',
+    price: 4.25,
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetoothpaste.jiff',
+    category: 'Oral Care'
   }
 ];
 
