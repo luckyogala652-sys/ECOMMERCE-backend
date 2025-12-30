@@ -38,7 +38,7 @@ const products = [
     id: 6,
     name: 'Colgate Toothpaste',
     price: 4.25,
-    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetoothpaste.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetootpaste.jpg',
     category: 'Oral Care'
   }
 ];
