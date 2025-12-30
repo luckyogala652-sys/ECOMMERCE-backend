@@ -29,7 +29,7 @@ const products = [
     price: 1.99,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/evasoap.jpg',
     category: 'toiletries',
-    subcategory: 'bathing soaps'
+    subcategory: 'soaps'
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const products = [
     id: 6,
     name: 'Colgate Toothpaste',
     price: 4.25,
-    image: '/images/colgatetootpaste.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetootpaste.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   }
