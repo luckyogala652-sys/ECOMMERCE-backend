@@ -1,5 +1,5 @@
 const products = [
-   {
+  {
     id: 1,
     name: 'Milo',
     price: 5.99,
@@ -33,12 +33,12 @@ const products = [
     price: 3.50,
     image: 'https://ecommerce-backend-ejce.onrender.com/images/cabinbiscuit.jpg',
     category: 'Snacks'
-  }
+  },
   {
     id: 6,
     name: 'Colgate Toothpaste',
     price: 4.25,
-    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetoothpaste.jiff',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetoothpaste.jpg',
     category: 'Oral Care'
   }
 ];
