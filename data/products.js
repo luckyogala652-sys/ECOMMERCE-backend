@@ -46,6 +46,86 @@ const products = [
     image: 'https://ecommerce-backend-ejce.onrender.com/images/colgatetootpaste.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
+  },
+  {
+    id: 7,
+    name: 'Longrich Toothpaste',
+    price: 4.50,
+    image: '/images/longrich.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 8,
+    name: 'Crest Toothpaste',
+    price: 3.75,
+    image: '/images/crest.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 9,
+    name: 'CloseUp Toothpaste',
+    price: 4.50,
+    image: '/images/closeup.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 10,
+    name: 'Oral-B Toothpaste',
+    price: 5.00,
+    image: '/images/oralb.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 11,
+    name: 'Pepsodent Toothpaste',
+    price: 6.00,
+    image: '/images/pepsodent.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste' 
+  },
+  {
+    id: 12,
+    name: 'MyMy Toothpaste',
+    price: 4.75,
+    image: '/images/mymy.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 13,
+    name: 'Signal Toothpaste',
+    price: 5.00,
+    image: '/images/signal.jpg',
+    category: 'toiletries',
+    subcategory: 'toothpaste'
+  },
+  {
+    id: 14,
+    name: 'Joy Soap',
+    price: 1.99,
+    image: '/images/joy.jpg',
+    category: 'toiletries',
+    subcategory: 'soaps'
+  },
+  {
+    id: 15,
+    name: 'Lux Soap',
+    price: 2.49,
+    image: '/images/lux.jpg',
+    category: 'toiletries',
+    subcategory: 'soaps'
+  },
+  {
+    id: 16,
+    name: 'Premier Cool Soap',
+    price: 1.99,
+    image: '/images/premiercool.jpg',
+    category: 'toiletries',
+    subcategory: 'soaps'
   }
 ];
 
