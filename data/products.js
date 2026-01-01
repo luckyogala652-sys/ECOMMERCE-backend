@@ -267,7 +267,7 @@ const products = [
     id: 34,
     name: 'SkinWhite Cream',
     price: 6.20,
-    image: '/images/skinwhite.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/skinwhite.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -275,7 +275,7 @@ const products = [
     id: 35,
     name: 'Vaseline Cream',
     price: 6.20,
-    image: '/images/vaseline.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/vaseline.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -283,7 +283,7 @@ const products = [
     id: 36,
     name: 'Olay Cream',
     price: 6.20,
-    image: '/images/olay.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/olay.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -291,7 +291,7 @@ const products = [
     id: 37,
     name: 'Garnier Cream',
     price: 6.20,
-    image: '/images/garnier.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/garnier.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -299,7 +299,7 @@ const products = [
     id: 38,
     name: 'Carowhite Cream',
     price: 6.20,
-    image: '/images/carowhite.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/carowhite.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -307,7 +307,7 @@ const products = [
     id: 39,
     name: 'Carotone Cream',
     price: 6.20,
-    image: '/images/carotone.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/carotone.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -315,7 +315,7 @@ const products = [
     id: 40,
     name: 'AmLactin Cream',
     price: 6.20,
-    image: '/images/amlactin.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/amlactin.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -323,7 +323,7 @@ const products = [
     id: 41,
     name: 'Jimpo-Ori Shea Butter',
     price: 2.25,
-    image: '/images/sheabutter.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/sheabutter.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
@@ -331,7 +331,7 @@ const products = [
     id: 42,
     name: 'Blue Magic Hair Cream',
     price: 1.20,
-    image: 'images/bluemagic.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/bluemagic.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -339,7 +339,7 @@ const products = [
     id: 43,
     name: 'Damatol Hair Cream',
     price: 1.45,
-    image: 'images/damatol.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/damatol.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -347,7 +347,7 @@ const products = [
     id: 44,
     name: 'Doo Gro Hair Cream',
     price: 1.22,
-    image: 'images/doo-gro.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/doo-gro.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -355,7 +355,7 @@ const products = [
     id: 45,
     name: 'Garnier Hair Cream',
     price: 1.18,
-    image: 'images/garnier.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/garnier.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -363,7 +363,7 @@ const products = [
     id: 46,
     name: 'Omega-A Hair Cream',
     price: 1.20,
-    image: 'images/omega-a.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/omega-a.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -371,7 +371,7 @@ const products = [
     id: 47,
     name: 'Soulmate Hair Cream',
     price: 1.38,
-    image: 'images/soulmate.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/soulmate.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -379,7 +379,7 @@ const products = [
     id: 48,
     name: 'Sulfur8 Hair Cream',
     price: 1.26,
-    image: 'images/sulfur8.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/sulfur8.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   },
@@ -387,7 +387,7 @@ const products = [
     id: 49,
     name: 'TCB Hair Cream',
     price: 1.45,
-    image: 'images/tcb.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/tcb.jpg',
     category: 'cream',
     subcategory: 'hair-cream'
   }
