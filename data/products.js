@@ -107,7 +107,7 @@ const products = [
     id: 14,
     name: 'Joy Soap',
     price: 1.99,
-    image: '/images/joy.jpg',
+    image: '/images/joysoap.jpg',
     category: 'toiletries',
     subcategory: 'soaps'
   },
@@ -115,7 +115,7 @@ const products = [
     id: 15,
     name: 'Lux Soap',
     price: 2.49,
-    image: '/images/lux.jpg',
+    image: '/images/luxsoap.jpg',
     category: 'toiletries',
     subcategory: 'soaps'
   },
