@@ -51,7 +51,7 @@ const products = [
     id: 7,
     name: 'Longrich Toothpaste',
     price: 4.50,
-    image: '/images/longrich.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/longrich.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -59,7 +59,7 @@ const products = [
     id: 8,
     name: 'Crest Toothpaste',
     price: 3.75,
-    image: '/images/crest.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/crest.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -67,7 +67,7 @@ const products = [
     id: 9,
     name: 'CloseUp Toothpaste',
     price: 4.50,
-    image: '/images/closeup.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/closeup.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -75,7 +75,7 @@ const products = [
     id: 10,
     name: 'Oral-B Toothpaste',
     price: 5.00,
-    image: '/images/oralb.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/oralb.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -83,7 +83,7 @@ const products = [
     id: 11,
     name: 'Pepsodent Toothpaste',
     price: 6.00,
-    image: '/images/pepsodent.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/pepsodent.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste' 
   },
@@ -91,7 +91,7 @@ const products = [
     id: 12,
     name: 'MyMy Toothpaste',
     price: 4.75,
-    image: '/images/mymy.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/mymy.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -99,7 +99,7 @@ const products = [
     id: 13,
     name: 'Signal Toothpaste',
     price: 5.00,
-    image: '/images/signal.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/signal.jpg',
     category: 'toiletries',
     subcategory: 'toothpaste'
   },
@@ -107,7 +107,7 @@ const products = [
     id: 14,
     name: 'Joy Soap',
     price: 1.99,
-    image: '/images/joysoap.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/joysoap.jpg',
     category: 'toiletries',
     subcategory: 'soaps'
   },
@@ -115,7 +115,7 @@ const products = [
     id: 15,
     name: 'Lux Soap',
     price: 2.49,
-    image: '/images/luxsoap.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/luxsoap.jpg',
     category: 'toiletries',
     subcategory: 'soaps'
   },
@@ -123,7 +123,7 @@ const products = [
     id: 16,
     name: 'Premier Cool Soap',
     price: 1.99,
-    image: '/images/premiercool.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/premiercool.jpg',
     category: 'toiletries',
     subcategory: 'soaps'
   }
