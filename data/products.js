@@ -275,7 +275,7 @@ const products = [
     id: 35,
     name: 'Vaseline Cream',
     price: 6.20,
-    image: 'https://ecommerce-backend-ejce.onrender.com/images/vaseline.jpg',
+    image: '/images/vasline.jpg',
     category: 'cream',
     subcategory: 'body-cream'
   },
