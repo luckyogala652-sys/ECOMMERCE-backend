@@ -131,7 +131,7 @@ const products = [
     id: 17,
     name: 'Bournville',
     price: 6.99,
-    image: '/images/bournville.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/bournville.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -139,7 +139,7 @@ const products = [
     id: 18,
     name: 'Bournvita',
     price: 7.99,
-    image: '/images/bournvita.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/bournvita.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -147,7 +147,7 @@ const products = [
     id: 19,
     name: 'Ovaltine',
     price: 8.99,
-    image: '/images/ovaltine.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/ovaltine.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -155,7 +155,7 @@ const products = [
     id: 20,
     name: 'Cadbury Chocolate',
     price: 5.99,
-    image: '/images/cadbury.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/cadbury.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -163,7 +163,7 @@ const products = [
     id: 21,
     name: 'Nesquik',
     price: 6.49,
-    image: '/images/nesquik.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/nesquik.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -171,7 +171,7 @@ const products = [
     id: 22,
     name: 'Cowbell Chocolate Powder',
     price: 6.20,
-    image: '/images/cowbell-chocolate.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/cowbell-chocolate.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -179,7 +179,7 @@ const products = [
     id: 23,
     name: 'Oreo Hot Cocoa',
     price: 6.12,
-    image: '/images/oreo-hot-cocoa.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/oreo-hot-cocoa.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -187,7 +187,7 @@ const products = [
     id: 24,
     name: 'Swiss Miss',
     price: 6.35,
-    image: '/images/swiss-miss.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/swiss-miss.jpg',
     category: 'beverages',
     subcategory: 'cocoa and chocolate powder'
   },
@@ -195,7 +195,7 @@ const products = [
     id: 25,
     name: 'Anchor Milk',
     price: 6.20,
-    image: '/images/anchor-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/anchor-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -203,7 +203,7 @@ const products = [
     id: 26,
     name: 'Cowbell Milk',
     price: 6.17,
-    image: '/images/cowbell-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/cowbell-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -211,7 +211,7 @@ const products = [
     id: 27,
     name: 'Dano Milk',
     price: 6.15,
-    image: '/images/dano-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/dano-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -219,7 +219,7 @@ const products = [
     id: 28,
     name: 'Jago Milk',
     price: 6.15,
-    image: '/images/jago-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/jago-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -227,7 +227,7 @@ const products = [
     id: 29,
     name: 'Loyal Milk',
     price: 6.20,
-    image: '/images/loyal-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/loyal-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -235,7 +235,7 @@ const products = [
     id: 30,
     name: 'Nido Milk',
     price: 6.18,
-    image: '/images/nido-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/nido-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -243,7 +243,7 @@ const products = [
     id: 31,
     name: 'Peak Milk',
     price: 6.27,
-    image: '/images/peak-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/peak-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -251,7 +251,7 @@ const products = [
     id: 32,
     name: 'Rainbow Milk',
     price: 6.20,
-    image: '/images/rainbow-milk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/rainbow-milk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   },
@@ -259,7 +259,7 @@ const products = [
     id: 33,
     name: 'Three Crowns Milk',
     price: 6.20,
-    image: '/images/threecrownsmilk.jpg',
+    image: 'https://ecommerce-backend-ejce.onrender.com/images/threecrownsmilk.jpg',
     category: 'beverages',
     subcategory: 'milk and diary powder'
   }
