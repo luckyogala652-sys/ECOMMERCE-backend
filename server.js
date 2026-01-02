@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 
 app.use(cors({
-  origin: 'https://johnwillsmart.netlify.app',
+  origin: 'https://johnwillsmart.vercel.app',
   methods: ['GET'],
   allowedHeaders: ['Content-Type']
 }));
