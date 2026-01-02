@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 
 app.use(cors({
-  origin: 'https://johnwillsmart.vercel.app',
+  origin: 'https://ecommerce-frontend-blush-theta.vercel.app',
   methods: ['GET'],
   allowedHeaders: ['Content-Type']
 }));
