@@ -41,7 +41,7 @@ app.get("/verify/:reference", async (req, res) => {
       `https://api.paystack.co/transaction/verify/${reference}`,
       {
         headers: {
-          Authorization: `Bearer sk_live_ea0b335b47f45c121d02d35829ca7d3901b290d7`, 
+          Authorization: `Bearer ${process.env.PAYSTACK_SECRET_KEY}`, 
         },
       }
     );
