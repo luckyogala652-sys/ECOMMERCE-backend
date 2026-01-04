@@ -5,6 +5,7 @@ const app = express();
 const PORT = 5000;
 const path = require('path');
 const fs = require('fs');
+const axios = require("axios");
 
 app.use(cors({
   origin: 'https://ecommerce-frontend-blush-theta.vercel.app',
@@ -30,6 +31,24 @@ app.get('/api/list-images', (req, res) => {
     if (err) return res.status(500).send('Error reading images folder');
     res.json(files);
   });
+});
+
+app.get("/verify/:reference", async (req, res) => {
+  const { reference } = req.params;
+
+  try {
+    const response = await axios.get(
+      `https://api.paystack.co/transaction/verify/${reference}`,
+      {
+        headers: {
+          Authorization: `Bearer sk_live_ea0b335b47f45c121d02d35829ca7d3901b290d7`, 
+        },
+      }
+    );
+    res.json(response.data);
+  } catch (err) {
+    res.status(500).json({ error: "Payment verification failed" });
+  }
 });
 
 app.listen(PORT, ()=>{
